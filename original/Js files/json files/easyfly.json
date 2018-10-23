@@ -1,0 +1,67 @@
+{
+   "bgimages" : {
+   },
+   "flight" : [
+       {
+            "flightData" : {
+                            "flightName" : "Flight Name",
+                            "flightNumber" : "Number",
+                            "price" : "Price",
+                            "date" : "Day",
+                            "time" : "Departure Time",
+                            "travelHours" : "Duration"
+            }
+        },
+        {
+            "flightData" : {
+                            "flightName" : "IndiGo",
+                            "flightNumber" : "1111",
+                            "price" : "Rs.45,000",
+                            "date" : "Everyday",
+                            "time" : "2:00 PM",
+                            "travelHours" : "23 Hours and 55 Minutes"
+                        }
+        },
+        {
+            "flightData" : {
+                            "flightName" : "AirCanada",
+                            "flightNumber" : "2222",
+                            "price" : "Rs.38,000",
+                            "date" : "Friday",
+                            "time" : "5:00 PM",
+                            "travelHours" : "24 Hours and 35 Minutes"
+           }
+       },
+       {
+            "flightData" : {
+                            "flightName" : "Cathay Pacific",
+                            "flightNumber" : "3333",
+                            "price" : "Rs.65,000",
+                            "date" : "Everyday",
+                            "time" : "3:00 AM",
+                            "travelHours" : "22 Hours and 00 Minutes"
+            }
+       },
+       {
+        "flightData" : {
+                        "flightName" : "SpiceJet",
+                        "flightNumber" : "4444",
+                        "price" : "Rs.54,000",
+                        "date" : "Thursday",
+                        "time" : "9:00 AM",
+                        "travelHours" : "22 Hours and 50 Minutes"
+            }
+        },
+        {
+            "flightData" : {
+                            "flightName" : "Air India",
+                            "flightNumber" : "5555",
+                            "price" : "Rs.29,000",
+                            "date" : "Thursday",
+                            "time" : "2:00 AM",
+                            "travelHours" : "22 Hours and 30 Minutes"
+            }
+       }
+   
+   ]
+}
