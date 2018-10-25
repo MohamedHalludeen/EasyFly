@@ -34,7 +34,7 @@ body {
 
 
 #logo {
-	width:	7%;
+	width: 7%;
 	height: 5%;
 	float: left;
 	display: inline;
@@ -601,7 +601,7 @@ li a:hover:not(.active)	{
   }
 
   .flightColumn {
-	  width: 20%;
+	  width: 17%;
 	  
 	  font-size: 18px;
 	  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -623,7 +623,7 @@ li a:hover:not(.active)	{
 	text-align: center;
 	background-color: #e9e9e9;
 	font-weight: bolder;
-	width: 20%;
+	width: 17%;
   }
 
   .buttonHyperLink {
